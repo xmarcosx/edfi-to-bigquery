@@ -1,0 +1,9 @@
+educationorganizationid,nameofinstitution,shortnameofinstitution,website,operationalstatusdescriptorid,discriminator,createdate,lastmodifieddate,id,changeversion
+"6000203","The University of Texas at Austin","UT-Austin","https://www.utexas.edu/","1684","edfi.PostSecondaryInstitution","2020-11-13 14:15:10.648524","2020-11-13 14:15:10.585430","fa12b6e9-7349-43aa-ba76-27c2cc13600a","3022"
+"19","Communities in Schools","CIS",,,"edfi.CommunityOrganization","2020-11-13 14:15:10.648526","2020-11-13 14:15:10.584689","ca50ebb2-7263-42ca-ae93-c09a86b17cbe","3023"
+"19255901","Communities in Schools of Grand Bend",,,,"edfi.CommunityProvider","2020-11-13 14:15:10.862414","2020-11-13 14:15:10.858786","03ab7c22-dfc6-457e-89b3-193807761d66","3024"
+"255950","Region 99 Education Service Center",,,,"edfi.EducationServiceCenter","2020-11-13 14:15:10.916672","2020-11-13 14:15:10.895514","3ca1c11b-71cb-4af5-8eb3-f2d2efd5c4a2","3025"
+"255901","Grand Bend ISD","GBISD","http://www.GBISD.edu/",,"edfi.LocalEducationAgency","2020-11-13 14:15:11.151466","2020-11-13 14:15:11.145874","4ac9965b-c831-4510-a38b-85ca8a577971","3027"
+"255901044","Grand Bend Middle School","GBMS","http://www.GBISD.edu/GBMS/","1684","edfi.School","2020-11-13 14:15:11.403841","2020-11-13 14:15:11.379562","7a8311c2-82e3-4e2a-8816-ccb038a8907f","3029"
+"255901107","Grand Bend Elementary School","GBES","http://www.GBISD.edu/GBES/","1684","edfi.School","2020-11-13 14:15:11.403851","2020-11-13 14:15:11.379556","dff31939-f7fc-427f-af27-c25cf7610b01","3028"
+"255901001","Grand Bend High School","GBHS","http://www.GBISD.edu/GBHS/","1684","edfi.School","2020-11-13 14:15:11.403830","2020-11-13 14:15:11.379590","53a0f69e-948f-4509-bb32-d06256e38c8a","3030"

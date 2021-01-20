@@ -1,0 +1,11 @@
+addresstypedescriptorid,city,educationorganizationid,postalcode,stateabbreviationdescriptorid,streetnumbername,apartmentroomsuitenumber,buildingsitenumber,nameofcounty,countyfipscode,latitude,longitude,donotpublishindicator,congressionaldistrict,localedescriptorid,createdate
+"94","Dallas","255950","75217","2222","898 Texas Education Blvd.",,,"Dallas",,,,,,,"2020-11-13 14:15:10.920903"
+"91","Dallas","255950","75217","2222","P.O. Box 898",,,"Dallas",,,,,,,"2020-11-13 14:15:10.921406"
+"94","Grand Bend","255901","73334","2222","123 Main Street",,,"Williston",,,,,,,"2020-11-13 14:15:11.153703"
+"91","Grand Bend","255901","73334-9376","2222","P.O. Box 9376",,,"Williston",,,,,,,"2020-11-13 14:15:11.153803"
+"94","Grand Bend","255901107","73334","2222","52 Halsey Ave.",,,"Williston",,,,,,,"2020-11-13 14:15:11.410586"
+"94","Grand Bend","255901001","73334","2222","456 Elm Street",,,"Williston",,,,,,,"2020-11-13 14:15:11.410578"
+"94","Grand Bend","255901044","73334","2222","9993 Space Blvd.",,,"Williston",,,,,,,"2020-11-13 14:15:11.410577"
+"91","Grand Bend","255901107","73334-9991","2222","P.O. Box 9991",,,"Williston",,,,,,,"2020-11-13 14:15:11.410677"
+"91","Grand Bend","255901044","73334-3393","2222","P.O. Box 3393",,,"Williston",,,,,,,"2020-11-13 14:15:11.410667"
+"91","Grand Bend","255901001","73334-2035","2222","P.O. Box 2035",,,"Williston",,,,,,,"2020-11-13 14:15:11.410674"

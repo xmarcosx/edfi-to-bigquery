@@ -1,0 +1,12 @@
+matrixelement,namespace,questioncode,surveyidentifier,surveyresponseidentifier,numericresponse,textresponse,noresponse,minnumericresponse,maxnumericresponse,createdate
+"Not Well","uri://gbisd.edu","CE_1_Q5","CE_1","00050","2",,,,,"2020-11-13 14:21:13.829688"
+"Somewhat","uri://gbisd.edu","CE_1_Q5","CE_1","00311",,,,,,"2020-11-13 14:21:13.862559"
+"Well","uri://gbisd.edu","CE_1_Q5","CE_1","00031","4",,,,,"2020-11-13 14:21:13.829690"
+"Well","uri://gbisd.edu","CE_1_Q5","CE_1","00169",,"Well",,,,"2020-11-13 14:21:13.843355"
+"Not well","uri://gbisd.edu","CE_1_Q5","CE_1","00533",,,,,,"2020-11-13 14:21:13.883371"
+"Not addressed","uri://gbisd.edu","CE_1_Q5","CE_1","00215",,,,"0","2","2020-11-13 14:21:13.853962"
+"Very well","uri://gbisd.edu","CE_1_Q5","CE_1","00070",,,,,,"2020-11-13 14:21:13.829727"
+"Very well","uri://gbisd.edu","CE_1_Q5","CE_1","00626",,,,,,"2020-11-13 14:21:13.892964"
+"Somewhat","uri://gbisd.edu","CE_1_Q5","CE_1","00977",,,,,,"2020-11-13 14:21:14.001418"
+"Not addressed","uri://gbisd.edu","CE_1_Q5","CE_1","01112",,,,,,"2020-11-13 14:21:14.027273"
+"Well","uri://gbisd.edu","CE_1_Q5","CE_1","01235",,,,,,"2020-11-13 14:21:14.037249"

@@ -1,0 +1,3 @@
+accountidentifier,educationorganizationid,fiscalyear,accountname,discriminator,createdate,lastmodifieddate,id,changeversion
+"2.200.100.1000","255901","2011","SpecialInstruction","NULL","2020-11-13 14:16:07.535043","2020-11-13 14:16:07.530424","e5c52c7a-7f11-411a-a0ef-fb0dc38e6240","11895"
+"1.100.100.1000","255901","2011","RegularInstruction","NULL","2020-11-13 14:16:07.535053","2020-11-13 14:16:07.530425","77120859-b7bb-4126-8c6f-0b9efd7f5418","11896"

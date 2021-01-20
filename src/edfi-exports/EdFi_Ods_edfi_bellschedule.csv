@@ -1,0 +1,4 @@
+bellschedulename,schoolid,alternatedayname,starttime,endtime,totalinstructionaltime,discriminator,createdate,lastmodifieddate,id,changeversion
+"Normal Schedule","255901107",,"08:30:00","15:50:00","350","NULL","2020-11-13 14:16:07.619732","2020-11-13 14:16:07.607759","fc857efa-0651-49e5-9936-41fb6d316a94","11898"
+"Normal Schedule","255901001",,"08:15:00","16:00:00","325","NULL","2020-11-13 14:16:07.619732","2020-11-13 14:16:07.607762","20eb7b35-f7a3-4a8a-be41-93c9b6e6582e","11899"
+"Normal Schedule","255901044",,"08:10:00","15:30:00","350","NULL","2020-11-13 14:16:07.619732","2020-11-13 14:16:07.607751","cc2a5b75-3ef2-4874-bcdc-ec96cb40edc3","11897"

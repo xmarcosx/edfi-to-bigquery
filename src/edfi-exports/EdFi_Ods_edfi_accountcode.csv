@@ -1,0 +1,7 @@
+accountclassificationdescriptorid,accountcodenumber,educationorganizationid,fiscalyear,accountcodedescription,discriminator,createdate,lastmodifieddate,id,changeversion
+"62","100","255901","2011","Regular Elementary/Secondary Education Programs","NULL","2020-11-13 14:16:06.851443","2020-11-13 14:16:06.850690","15ac76f3-36b8-4273-8560-232dcc93d1d0","11814"
+"60","2","255901","2011","Special Revenue","NULL","2020-11-13 14:16:06.851502","2020-11-13 14:16:06.850691","2d816107-4cad-4e1a-9edb-ab6208596b32","11816"
+"60","1","255901","2011","General Fund","NULL","2020-11-13 14:16:06.851433","2020-11-13 14:16:06.850679","3a2b8def-c654-4183-8754-da7d2f2b8bf2","11817"
+"62","200","255901","2011","Special Programs","NULL","2020-11-13 14:16:06.863418","2020-11-13 14:16:06.863233","d6407002-5702-4b44-9265-b255ab395cdd","11818"
+"61","1000","255901","2011","Instruction","NULL","2020-11-13 14:16:06.864521","2020-11-13 14:16:06.863889","d2265a4b-f943-4353-8af5-f42e54f6b9df","11819"
+"59","100","255901","2011","Personal Services","NULL","2020-11-13 14:16:06.866406","2020-11-13 14:16:06.866350","e0bbac17-aa4a-4202-a924-69c609a9a6c1","11820"

@@ -1,0 +1,5 @@
+educationorganizationid,ratingtitle,schoolyear,rating,ratingdate,ratingorganization,ratingprogram,discriminator,createdate,lastmodifieddate,id,changeversion
+"255901","Accountability Rating","2012","Recognized","2012-05-16","SEA","AEIS","NULL","2020-11-13 14:15:12.125297","2020-11-13 14:15:12.124074","a4dad859-d0d6-4f09-a27c-310e19154bfc","3109"
+"255901044","Accountability Rating","2012","Recognized","2012-05-16","SEA","AEIS","NULL","2020-11-13 14:15:12.125297","2020-11-13 14:15:12.124069","024af89e-7d0b-4fab-a3c4-82a3660cfe4d","3110"
+"255901107","Accountability Rating","2012","Exemplary","2012-05-16","SEA","AEIS","NULL","2020-11-13 14:15:12.125381","2020-11-13 14:15:12.124068","bf4bba52-f1ba-43ec-a0a5-12a5ed95677f","3111"
+"255901001","Accountability Rating","2012","Academically Acceptable","2012-05-16","SEA","AEIS","NULL","2020-11-13 14:15:12.125295","2020-11-13 14:15:12.124066","20954231-5391-438c-964b-886d24917753","3108"

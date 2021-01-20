@@ -1,0 +1,4 @@
+begindate,educationorganizationid,responsibilitydescriptorid,studentusi,enddate,discriminator,createdate,lastmodifieddate,id,changeversion
+"2010-08-23","255901","2003","1",,"NULL","2020-11-13 14:17:35.268573","2020-11-13 14:17:35.265705","3816d36b-85dc-4854-a98d-b77c29aacb61","32152"
+"2010-08-23","255901","2003","513",,"NULL","2020-11-13 14:17:35.268544","2020-11-13 14:17:35.265705","c41f7ef6-bb0a-4df2-aa0e-2e1a486b0d70","32154"
+"2010-08-23","255901","2003","954",,"NULL","2020-11-13 14:17:35.268544","2020-11-13 14:17:35.265705","1eabd182-9265-4431-a6d0-2f21fe336154","32153"

@@ -1,0 +1,13 @@
+educationorganizationid,namespace,surveyidentifier,surveyresponseidentifier,surveysectiontitle,discriminator,createdate,lastmodifieddate,id,changeversion
+"255901001","uri://gbisd.edu","CE_1","00031","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.534927","2020-11-13 14:21:23.531627","940e2f6b-c07e-4522-b9c6-6fd8f63f70b9","90376"
+"255901001","uri://gbisd.edu","CE_1","00169","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.534925","2020-11-13 14:21:23.531619","8db8f66c-5e8a-4d6f-9b3d-928dbfdce241","90379"
+"255901001","uri://gbisd.edu","CE_1","00533","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.550792","2020-11-13 14:21:23.550740","47be0f2a-bd79-4c19-9b9b-ec7438c057bb","90380"
+"255901001","uri://gbisd.edu","CE_1","00311","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.551272","2020-11-13 14:21:23.551221","2dd71a60-95a4-4391-a190-972a5915b0bd","90383"
+"255901001","uri://gbisd.edu","CE_1","00626","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.557218","2020-11-13 14:21:23.557153","5252a000-0c5e-423a-b74e-d15e566b9798","90384"
+"255901001","uri://gbisd.edu","CE_1","00977","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.560004","2020-11-13 14:21:23.559902","c181d2a3-f0c9-4280-86f0-82799733370f","90387"
+"255901001","uri://gbisd.edu","CE_1","00050","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.534925","2020-11-13 14:21:23.531638","0c8496ab-5caf-448f-ad9f-e35f950ebb38","90377"
+"255901001","uri://gbisd.edu","CE_1","00452","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.551133","2020-11-13 14:21:23.551042","5dff9aff-cfdb-4b02-aa5e-e1ed8aa27e20","90382"
+"255901001","uri://gbisd.edu","CE_1","01112","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.559041","2020-11-13 14:21:23.558974","2abe18cc-fb4d-449b-a3fb-912624ef577c","90385"
+"255901001","uri://gbisd.edu","CE_1","00070","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.534925","2020-11-13 14:21:23.531602","6b1253d1-8ac9-40ae-bca7-dc63300f0515","90378"
+"255901001","uri://gbisd.edu","CE_1","00215","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.550463","2020-11-13 14:21:23.550389","9c097da3-fc2f-4863-a9c2-e7f5d3b5f1c1","90381"
+"255901001","uri://gbisd.edu","CE_1","01235","Course Content, Grading, and Climate","NULL","2020-11-13 14:21:23.559532","2020-11-13 14:21:23.559474","b8c26448-4fb1-4ff0-80b9-6807875feb33","90386"

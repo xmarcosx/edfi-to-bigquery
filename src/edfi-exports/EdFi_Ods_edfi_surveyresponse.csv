@@ -1,0 +1,13 @@
+namespace,surveyidentifier,surveyresponseidentifier,responsedate,responsetime,electronicmailaddress,fullname,location,studentusi,parentusi,staffusi,discriminator,createdate,lastmodifieddate,id,changeversion
+"uri://gbisd.edu","CE_1","00169","2011-05-26","396",,,"Grand Bend High School",,,,"NULL","2020-11-13 14:21:13.257120","2020-11-13 14:21:13.252665","c6417301-c97a-42d9-9084-935b511a067f","88350"
+"uri://gbisd.edu","CE_1","00311","2011-05-07","312","jdjuetm491@example.com","Gabe Barton","Grand Bend High School","728",,,"NULL","2020-11-13 14:21:13.275148","2020-11-13 14:21:13.275028","9b60fde1-725e-4358-b62d-c0fff3965dac","88356"
+"uri://gbisd.edu","CE_1","00977","2011-03-30","400",,,"Grand Bend High School",,,,"NULL","2020-11-13 14:21:13.286003","2020-11-13 14:21:13.285898","8e584450-fdac-40b5-9ba9-88d33e0aa861","88360"
+"uri://gbisd.edu","CE_1","00031","2010-08-23","312","aujxft@example.com","Dave Hahn","Grand Bend High School","657",,,"NULL","2020-11-13 14:21:13.258064","2020-11-13 14:21:13.252763","ceb4c8b6-23cb-4224-89af-785b626adc91","88352"
+"uri://gbisd.edu","CE_1","00070","2011-02-19","402",,,"Grand Bend High School",,,,"NULL","2020-11-13 14:21:13.257120","2020-11-13 14:21:13.252665","88be3e8f-7a68-436d-bf5a-3207095ff001","88351"
+"uri://gbisd.edu","CE_1","00533","2011-01-06","267",,,"Grand Bend High School",,,,"NULL","2020-11-13 14:21:13.274831","2020-11-13 14:21:13.274685","7520f471-15c9-4209-96a8-4d500dafb627","88353"
+"uri://gbisd.edu","CE_1","00452","2010-11-02","551",,,"Grand Bend High School",,,,"NULL","2020-11-13 14:21:13.274956","2020-11-13 14:21:13.274826","8f07aa58-4aed-41b0-8abb-9ef8a1173807","88354"
+"uri://gbisd.edu","CE_1","00626","2010-09-28","444",,,"Grand Bend High School",,,,"NULL","2020-11-13 14:21:13.283239","2020-11-13 14:21:13.283088","b6be231c-baf4-42dc-aa3d-b88eb527829c","88357"
+"uri://gbisd.edu","CE_1","01235","2011-04-07","312","xhxmiryu010@example.com","Earl Freddie David","Grand Bend High School","805",,,"NULL","2020-11-13 14:21:13.284797","2020-11-13 14:21:13.284665","24d3e388-502a-4ff3-b355-4ca6b995fa7f","88359"
+"uri://gbisd.edu","CE_1","00050","2010-11-11","485",,,"Grand Bend High School",,,,"NULL","2020-11-13 14:21:13.257120","2020-11-13 14:21:13.252665","94648e2f-8ac8-4751-8948-2aa802952662","88349"
+"uri://gbisd.edu","CE_1","00215","2010-12-20","312",,"Alan Montoya","Grand Bend High School","954",,,"NULL","2020-11-13 14:21:13.275064","2020-11-13 14:21:13.274942","5cf7f36b-ac77-4375-badf-9bcb5db1f1f2","88355"
+"uri://gbisd.edu","CE_1","01112","2011-04-06","560",,,"Grand Bend High School",,,,"NULL","2020-11-13 14:21:13.284421","2020-11-13 14:21:13.284259","e2c104a2-5367-46ff-9df0-00f3c44e8b3b","88358"

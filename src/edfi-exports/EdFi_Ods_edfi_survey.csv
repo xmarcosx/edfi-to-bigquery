@@ -1,0 +1,2 @@
+namespace,surveyidentifier,educationorganizationid,surveytitle,sessionname,schoolyear,schoolid,surveycategorydescriptorid,numberadministered,discriminator,createdate,lastmodifieddate,id,changeversion
+"uri://gbisd.edu","CE_1","255901001","Course Evaluation","2010-2011 Spring Semester","2011","255901001","2270",,"NULL","2020-11-13 14:16:08.819432","2020-11-13 14:16:08.817872","c3528ff4-3331-463c-9e40-98f61e4916fd","12046"
